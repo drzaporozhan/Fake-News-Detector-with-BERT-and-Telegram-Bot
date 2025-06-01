@@ -1,0 +1,10 @@
+transformers==4.38.2
+torch>=1.13
+sentence-transformers==2.2.2
+scikit-learn==1.3.0
+nltk==3.8.1
+spacy==3.7.2
+python-telegram-bot==13.15
+matplotlib
+seaborn
+tqdm
